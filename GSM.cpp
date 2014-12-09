@@ -15,7 +15,6 @@ based on QuectelM10 chip.
 */
 
 #include "GSM.h"
-#include "WideTextFinder.h"
 
 //De-comment this two lines below if you have the
 //first version of GSM GPRS Shield
